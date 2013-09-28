@@ -1,0 +1,51 @@
+Total including: 9801
+
+Repetitions for ^x from 2 upto 100
+x : count*num = res
+2 : 50*10 = 500
+3 : 25*4 = 100
+4 : 33*3 = 99
+5 : 20*2 = 40
+6 : 16*2 = 32
+   Total = 771
+Repetitions ^x*y from 101 upto 200
+x : y : count*num = res
+2 : 3 : 17*4 = 68
+2 : 4 : 13*3 = 39
+2 : 5 : 10*2 = 20
+2 : 6 : 8*2 = 16
+3 : 4 : 8*3 = 24
+3 : 5 : 7*2 = 14
+3 : 6 : 6*2 = 12
+4 : 5 : 5*2 = 10
+4 : 6 : 4*2 = 8
+5 : 6 : 3*2 = 6
+      Total = 217
+Repetitions ^x*y from 201 upto 300
+x : y : count*num = res
+3 : 4 : 9*3 = 27
+3 : 5 : 7*2 = 14
+3 : 6 : 5*2 = 10 
+4 : 5 : 5*2 = 10
+4 : 6 : 4*2 = 8
+5 : 6 : 4*2 = 8
+	  Total = 77
+Repetitions ^x*y from 301 upto 400
+x : y : count*num = res
+4 : 5 : 5*2 = 10
+4 : 6 : 4*2 = 10
+5 : 6 : 3*2 = 6
+      Total = 26
+Repetitions ^x*y from 401 upto 500
+x : y : count*num = res
+5 : 6 : 3*2 = 6
+      Total = 6
+
+|x |xth/100| 
+------------ 
+|2 | 10    |--
+|3 | 4     |--
+|4 | 3     |--
+|5 | 2     |--
+|6 | 2     |--
+------------
